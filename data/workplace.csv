@@ -1,0 +1,21 @@
+Employee_ID,Organization_Name,Industry,Company_Size,Employee_Count,AI_Tool,AI_Usage_Hours,Adoption_Year,Training_Hours,Productivity_Score,Satisfaction_Score,AI_Investment,Cost_Savings,Revenue_Impact,Remote_Work_Days,Tasks_Completed,Work_Hours,Overtime_Hours,Adoption_Level,ROI_Percentage
+1,ABC Tech,IT,Large,5000,ChatGPT,35,2024,20,92,9,50000,120000,180000,10,160,45,5,AI Leader,140
+2,Global Finance,Finance,Large,4000,Copilot,28,2023,18,88,8,45000,90000,150000,8,140,46,6,Early Adopter,100
+3,Smart HR,HR,Medium,1200,Gemini,15,2023,10,76,7,15000,25000,40000,6,90,40,3,Slow Adopter,67
+4,MarketPro,Marketing,Medium,900,Claude,22,2024,15,84,8,25000,50000,80000,12,120,42,4,Early Adopter,100
+5,SalesMax,Sales,Large,6000,ChatGPT,38,2025,24,95,10,60000,150000,220000,5,180,48,8,AI Leader,150
+6,InfoSoft,IT,Medium,1800,Gemini,20,2023,12,80,7,22000,45000,70000,9,115,41,4,Early Adopter,105
+7,FinEdge,Finance,Small,600,Copilot,12,2022,8,72,6,12000,18000,30000,7,85,39,2,Slow Adopter,50
+8,HR Plus,HR,Large,3500,Claude,30,2024,22,89,9,42000,95000,140000,8,150,44,5,AI Leader,126
+9,BrandWave,Marketing,Small,450,Gemini,10,2022,6,70,6,10000,15000,25000,14,75,38,2,Slow Adopter,50
+10,SalesForceX,Sales,Medium,1500,ChatGPT,26,2024,17,86,8,30000,65000,100000,6,130,45,6,Early Adopter,117
+11,TechNova,IT,Large,5200,Copilot,40,2025,25,97,10,70000,170000,250000,11,190,50,7,AI Leader,143
+12,MoneyCare,Finance,Medium,1400,Claude,18,2023,14,81,7,18000,38000,60000,9,110,42,3,Early Adopter,111
+13,PeopleFirst,HR,Small,500,Gemini,9,2022,5,68,6,9000,12000,20000,12,70,37,1,Slow Adopter,33
+14,CreativeAds,Marketing,Large,3000,ChatGPT,32,2024,21,91,9,48000,110000,170000,10,165,46,5,AI Leader,129
+15,SalesHub,Sales,Small,700,Copilot,14,2023,9,75,7,14000,22000,35000,8,95,40,3,Slow Adopter,57
+16,DigitalCore,IT,Medium,2000,Claude,24,2024,16,85,8,28000,58000,90000,7,125,43,4,Early Adopter,107
+17,CapitalTrust,Finance,Large,4500,ChatGPT,34,2025,23,93,9,55000,130000,200000,6,175,47,6,AI Leader,136
+18,TalentWorks,HR,Medium,1300,Gemini,16,2023,11,78,7,16000,30000,50000,10,100,41,3,Early Adopter,88
+19,AdVision,Marketing,Medium,1100,Copilot,21,2024,15,83,8,24000,52000,82000,11,118,42,4,Early Adopter,117
+20,RetailBoost,Sales,Large,5500,ChatGPT,36,2025,22,94,10,62000,145000,230000,5,185,49,8,AI Leader,134	

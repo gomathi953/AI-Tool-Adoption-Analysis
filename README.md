@@ -60,6 +60,4 @@ Organizations are adopting AI technologies to improve productivity and efficienc
 
 **Gomathi Ramya**
 
-AI & ML Internship Program
 
-Task 07 – AI Tool Adoption Trend Analysis
